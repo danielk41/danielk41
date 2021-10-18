@@ -1,0 +1,115 @@
+#left1{
+width:50%;
+height:100%;
+float:left;
+margin-left: 30px;
+}
+#right1{
+
+
+
+}
+#tim1{
+width:500px;
+height:300px;
+float:right;
+
+}
+#conteneur_bouton1
+{
+ background-color:white;
+ border-radius :30px; 
+}
+.p1{
+ width: 400px;
+  height: 100px;
+}
+
+#left2{
+
+
+}
+#right2{
+width:40%;
+height:90%;
+float:left;
+margin-left: 30px;
+margin-right: 50px;
+
+
+}
+@media (max-width: 600px) {
+    #tim2
+    {
+        display: none;
+    }
+}
+
+#conteneur_bouton2
+{
+ background-color:white;
+ border-radius :30px; 
+}
+
+#espace1
+{
+ background-color:white;
+ width: 10px;
+  height: 300px; 
+}
+
+#espace2
+{
+ background-color:white;
+ width: 50px;
+  height: 320px; 
+}
+
+#espace3
+{
+ background-color:white;
+ width: 50px;
+  height: 650px; 
+}
+
+#left3{
+width:90%;
+height:90%;
+float:left;
+margin-left: 30px;
+margin-right: 5000px;
+margin-bottom: 0px
+
+}
+#right3{
+
+
+
+}
+
+label{
+
+margin-right: 75px;
+margin-left: 75px;
+
+}
+
+
+input{
+
+margin-right: 24px;
+margin-left: 24px;
+}
+
+@media (max-width: 600px) {
+    #tim3
+    {
+        display: none;
+    }
+}
+
+#conteneur_bouton3
+{
+ background-color:white;
+ border-radius :30px; 
+}
